@@ -72,9 +72,6 @@ const Home = () => {
           </span>
         </div>
       </div>
-      <footer>
-        <h4>Built by Rupak</h4>
-      </footer>
     </div>
   );
 };
